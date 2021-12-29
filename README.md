@@ -1,2 +1,2 @@
 # drone-demo
-wtn用于drone的测试仓库
+用于drone的测试仓库
